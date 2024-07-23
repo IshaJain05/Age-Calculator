@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family:cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .container{
@@ -61,7 +61,7 @@ button:hover{
     width:620px;
     height:480px;
     background-color:rgb(228, 91, 91);
-    border-radius:30px;
+    border-radius:0px;
     position:absolute;
     top:19%;
     left:30%;
